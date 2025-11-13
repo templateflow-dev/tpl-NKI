@@ -1,0 +1,3 @@
+219b816d-3f56-431a-8870-6da0d4d2e989 chunk=500mb encryption=none name=box.com type=webdav url=https://dav.box.com/dav/TemplateFlow/tpl-MNI152Lin timestamp=1548210293.129519507s
+9e1f586a-b1cf-4bd4-841a-a5e64016244a autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-NKI/ host=s3.amazonaws.com name=s3 port=80 public=yes publicurl=https://templateflow.s3.amazonaws.com/ storageclass=STANDARD type=S3 versioning=yes timestamp=1641385246.988839s
+d6ad0419-dba5-42fb-8e1f-b4938fbf8ea6 autoenable=true location=https://gin.g-node.org/templateflow/tpl-NKI name=gin-src type=git timestamp=1641507997.079891s
